@@ -1,0 +1,33 @@
+// .container {
+//   display: flex;
+//   border: 2px solid green;
+//   justify-content: center;
+//   align-items: center;
+//   border-radius: 5px;
+//   box-shadow: 0 0.5rem 0.5rem black;
+//   height: 20vh;
+//   width: 20vh;
+//   background-color: beige;
+// }
+
+div {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+  gap: 200px;
+}
+
+.container > div {
+  display: flex;
+
+  flex-direction: column;
+  border: 5px solid cornflowerblue;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  box-shadow: 0 1rem 1rem black;
+  height: 50px;
+  width: 50px;
+  background-color: beige;
+}
