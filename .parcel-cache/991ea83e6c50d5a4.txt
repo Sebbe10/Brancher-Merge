@@ -9,7 +9,7 @@
 80C:\Webbutveckling 2\19. Brancher och Merge\node_modules\node-addon-api\nothing.c133166379897525163 0
 87C:\Webbutveckling 2\19. Brancher och Merge\node_modules\svgo\plugins\removeEmptyText.js133166379909833651 0
 96C:\Webbutveckling 2\19. Brancher och Merge\node_modules\lightningcss-win32-x64-msvc\package.json133166379897907431 0
-47C:\Webbutveckling 2\19. Brancher och Merge\dist133166385799911731 1
+47C:\Webbutveckling 2\19. Brancher och Merge\dist133166454497714305 1
 87C:\Webbutveckling 2\19. Brancher och Merge\node_modules\caniuse-lite\data\regions\IL.js133166379918596071 0
 87C:\Webbutveckling 2\19. Brancher och Merge\node_modules\@parcel\utils\test\input\config133166379913212505 1
 73C:\Webbutveckling 2\19. Brancher och Merge\node_modules\parcel\src\cli.js133166379901327779 0
@@ -50,7 +50,7 @@
 67C:\Webbutveckling 2\19. Brancher och Merge\node_modules\safe-buffer133166379900534380 1
 85C:\Webbutveckling 2\19. Brancher och Merge\node_modules\v8-compile-cache\package.json133166379899214896 0
 49C:\Webbutveckling 2\19. Brancher och Merge\src\js133166266018975057 1
-57C:\Webbutveckling 2\19. Brancher och Merge\src\index.html133166386039893962 0
+57C:\Webbutveckling 2\19. Brancher och Merge\src\index.html133166453670101157 0
 110C:\Webbutveckling 2\19. Brancher och Merge\node_modules\react-refresh\cjs\react-refresh-runtime.development.js133166379901284606 0
 74C:\Webbutveckling 2\19. Brancher och Merge\node_modules\yaml\browser\types133166379908939056 1
 96C:\Webbutveckling 2\19. Brancher och Merge\node_modules\caniuse-lite\data\features\object-fit.js133166379922376963 0
@@ -70,7 +70,7 @@
 78C:\Webbutveckling 2\19. Brancher och Merge\node_modules\xxhash-wasm\LICENSE.md133166379902759288 0
 75C:\Webbutveckling 2\19. Brancher och Merge\node_modules\callsites\readme.md133166379900503561 0
 104C:\Webbutveckling 2\19. Brancher och Merge\node_modules\@swc\helpers\src\_initializer_warning_helper.mjs133166379914177076 0
-61C:\Webbutveckling 2\19. Brancher och Merge\src\scss\main.scss133166385799505502 0
+61C:\Webbutveckling 2\19. Brancher och Merge\src\scss\main.scss133166454664140231 0
 92C:\Webbutveckling 2\19. Brancher och Merge\node_modules\@parcel\source-map\dist\SourceMap.js133166379904410989 0
 108C:\Webbutveckling 2\19. Brancher och Merge\node_modules\caniuse-lite\data\features\css-media-range-syntax.js133166379915615443 0
 74C:\Webbutveckling 2\19. Brancher och Merge\node_modules\nullthrows\LICENSE133166379898637628 0
@@ -4224,7 +4224,7 @@
 102C:\Webbutveckling 2\19. Brancher och Merge\node_modules\@jridgewell\trace-mapping\dist\types\sort.d.ts133166379904170125 0
 115C:\Webbutveckling 2\19. Brancher och Merge\node_modules\@jridgewell\trace-mapping\dist\types\sourcemap-segment.d.ts133166379904350867 0
 112C:\Webbutveckling 2\19. Brancher och Merge\node_modules\@jridgewell\trace-mapping\dist\types\strip-filename.d.ts133166379904516324 0
-58C:\Webbutveckling 2\19. Brancher och Merge\dist\index.html133166383378538840 0
+58C:\Webbutveckling 2\19. Brancher och Merge\dist\index.html133166454021452103 0
 111C:\Webbutveckling 2\19. Brancher och Merge\node_modules\@jridgewell\trace-mapping\dist\types\trace-mapping.d.ts133166379904694031 0
 103C:\Webbutveckling 2\19. Brancher och Merge\node_modules\@jridgewell\trace-mapping\dist\types\types.d.ts133166379904978538 0
 88C:\Webbutveckling 2\19. Brancher och Merge\node_modules\@jridgewell\sourcemap-codec\dist133166379902295518 1
@@ -4337,9 +4337,9 @@
 69C:\Webbutveckling 2\19. Brancher och Merge\node_modules\.bin\svgo.ps1133166379926111776 0
 71C:\Webbutveckling 2\19. Brancher och Merge\node_modules\.bin\terser.cmd133166379926118705 0
 71C:\Webbutveckling 2\19. Brancher och Merge\node_modules\.bin\terser.ps1133166379926116778 0
-82C:\Webbutveckling 2\19. Brancher och Merge\dist\19. Brancher och Merge.59712999.js133166382188411458 0
-86C:\Webbutveckling 2\19. Brancher och Merge\dist\19. Brancher och Merge.59712999.js.map133166382188509439 0
-65C:\Webbutveckling 2\19. Brancher och Merge\dist\index.aa69868b.js133166382188411458 0
-69C:\Webbutveckling 2\19. Brancher och Merge\dist\index.aa69868b.js.map133166382188509439 0
-66C:\Webbutveckling 2\19. Brancher och Merge\dist\index.b10d73a7.css133166385799881989 0
-70C:\Webbutveckling 2\19. Brancher och Merge\dist\index.b10d73a7.css.map133166385799907279 0
+82C:\Webbutveckling 2\19. Brancher och Merge\dist\19. Brancher och Merge.59712999.js133166454021646688 0
+86C:\Webbutveckling 2\19. Brancher och Merge\dist\19. Brancher och Merge.59712999.js.map133166454021699498 0
+65C:\Webbutveckling 2\19. Brancher och Merge\dist\index.aa69868b.js133166454021549410 0
+69C:\Webbutveckling 2\19. Brancher och Merge\dist\index.aa69868b.js.map133166454021622842 0
+66C:\Webbutveckling 2\19. Brancher och Merge\dist\index.b10d73a7.css133166454497680936 0
+70C:\Webbutveckling 2\19. Brancher och Merge\dist\index.b10d73a7.css.map133166454497692740 0

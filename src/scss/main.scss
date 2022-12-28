@@ -1,14 +1,6 @@
-// .container {
-//   display: flex;
-//   border: 2px solid green;
-//   justify-content: center;
-//   align-items: center;
-//   border-radius: 5px;
-//   box-shadow: 0 0.5rem 0.5rem black;
-//   height: 20vh;
-//   width: 20vh;
-//   background-color: beige;
-// }
+body {
+  background: linear-gradient(cornflowerblue, lightblue, cornflowerblue);
+}
 
 div {
   display: flex;
@@ -30,4 +22,9 @@ div {
   height: 50px;
   width: 50px;
   background-color: beige;
+}
+
+.container > div:hover {
+  background-color: green;
+  cursor: pointer;
 }
